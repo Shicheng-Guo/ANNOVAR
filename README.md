@@ -8,5 +8,5 @@ Timeline:
 
 Annotation Database: 
 * SPIDEX 1.0 - Deep Genomics : (Xiong et al, Science 2015) Machine-learning prediction on how genetic variants affect RNA splicing. Genetic annotation file can be [downloaded here](https://urldefense.proofpoint.com/v2/url?u=http-3A__www.openbioinformatics.org_annovar_download_IlvUMvrpPT_hg19-5Fspidex.zip&d=DwIBAg&c=KNVzINr6WAqWApikNSnyDeOu0ck0iFwcrMz92MxUhIs&r=Mmfn7ace985CUWMMPhoR7-I6qZDPAtf2RzYymUiomes&m=dWbMrcrTn8Uhbk4EfDiAGPCRWOzvaNSGfCAzQswt4lk&s=vhkYdQvmuJO3vkrSPXXQYogFEEBKfT3TgLcwZIf1vms&e=)
-* The human gene damage index as a gene-level approach to prioritizing exome variants. the annotation file can be [downloaded here](http://www.openbioinformatics.org/annovar/download/GDI_full_10282015.txt.gz)
+* The human gene damage index as a gene-level approach to prioritizing exome variants. the annotation file can be [downloaded here](http://www.openbioinformatics.org/annovar/download/GDI_full_10282015.txt.gz): `wget http://www.openbioinformatics.org/annovar/download/GDI_full_10282015.txt.gz`
 
