@@ -8,4 +8,4 @@ Timeline:
 
 Annotation Database: 
 
-* SPIDEX: SPIDEX 1.0 - Deep Genomics : (Xiong et al, Science 2015) Machine-learning prediction on how genetic variants affect RNA splicing. This dataset can be [downloaded here](https://urldefense.proofpoint.com/v2/url?u=http-3A__www.openbioinformatics.org_annovar_download_IlvUMvrpPT_hg19-5Fspidex.zip&d=DwIBAg&c=KNVzINr6WAqWApikNSnyDeOu0ck0iFwcrMz92MxUhIs&r=Mmfn7ace985CUWMMPhoR7-I6qZDPAtf2RzYymUiomes&m=dWbMrcrTn8Uhbk4EfDiAGPCRWOzvaNSGfCAzQswt4lk&s=vhkYdQvmuJO3vkrSPXXQYogFEEBKfT3TgLcwZIf1vms&e=)
+* SPIDEX 1.0 - Deep Genomics : (Xiong et al, Science 2015) Machine-learning prediction on how genetic variants affect RNA splicing. This dataset can be [downloaded here](https://urldefense.proofpoint.com/v2/url?u=http-3A__www.openbioinformatics.org_annovar_download_IlvUMvrpPT_hg19-5Fspidex.zip&d=DwIBAg&c=KNVzINr6WAqWApikNSnyDeOu0ck0iFwcrMz92MxUhIs&r=Mmfn7ace985CUWMMPhoR7-I6qZDPAtf2RzYymUiomes&m=dWbMrcrTn8Uhbk4EfDiAGPCRWOzvaNSGfCAzQswt4lk&s=vhkYdQvmuJO3vkrSPXXQYogFEEBKfT3TgLcwZIf1vms&e=)
